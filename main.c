@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int main() { puts("hello world"); }
+int main() { return -1; }
