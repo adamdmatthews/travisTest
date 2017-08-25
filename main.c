@@ -2,4 +2,4 @@
 
 int main() { puts("hello world"); }
 
-//this line will make the build fail
+this line will make the build fail
